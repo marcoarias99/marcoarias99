@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcoarias99
+- 👋 Hello, I’m Marco or @marcoarias99
 - 👀 I’m interested in learning and making things simpler
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on projects that can help me improve my skills 
